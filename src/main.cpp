@@ -10,7 +10,7 @@
 desltaT = (negadoTinit + 1 ) + Tactual
 
  */
-
+//probando el git
 enum State{ Shutdown , Toggle, Wait}; //se enumera de 0 en adelante automaticamente
 
 void toggleLed()
